@@ -502,5 +502,3 @@ plt.scatter(
 plt.show()
 """
 }
-"""
-}
